@@ -1,6 +1,4 @@
-# CODSOFT
-All the Artificial Intelligence tasks and projects done during the internship with CODSOFT are being uploaded here.
-
-Tasks done:-
-## 1. Rule-Based Chatbot 
-Developed a Rule-Based Chatbot using NLTK (Natural Language Toolkit) which deals with NLP(Natural Language Processing) applications, one of the main applications being Chatbot development. 
+Projects 
+1 TOMATO 🍅 PLANT DISEASE DETECTION  
+2 GENERI CHURCH PREDECTION
+3 RULES BASED CHAT BOT
